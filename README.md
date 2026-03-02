@@ -19,3 +19,10 @@ trying to make complex things feel simple
 [linkedin](https://www.linkedin.com/in/zeynep-sena-g%C3%BClek-080688325/) · [instagram](https://instagram.com/pweexinari)
 
 
+<br/>
+
+<p align="center">
+
+![banner](https://img.shields.io/badge/debugging%20life%20one%20commit%20at%20a%20time-fde2f3?style=for-the-badge&logoWidth=0&color=a64d79)
+
+</p>
