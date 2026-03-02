@@ -16,7 +16,8 @@ trying to make complex things feel simple
 
 ![contact](https://img.shields.io/badge/contact-fde2f3?style=flat-square&labelColor=fde2f3&color=a64d79)
 
-[linkedin](https://www.linkedin.com/in/zeynep-sena-g%C3%BClek-080688325/) · [instagram](https://instagram.com/pweexinari)
+[![linkedin](https://img.shields.io/badge/linkedin-a64d79?style=flat-square&logo=linkedin&logoColor=a64d79&labelColor=fde2f3)](https://www.linkedin.com/in/zeynep-sena-g%C3%BClek-080688325/)
+[![instagram](https://img.shields.io/badge/instagram-a64d79?style=flat-square&logo=instagram&logoColor=a64d79&labelColor=fde2f3)](https://instagram.com/pweexinari)
 
 <p align="center">
   <img src="assets/banner.png" width="100%">
