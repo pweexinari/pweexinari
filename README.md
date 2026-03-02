@@ -14,5 +14,5 @@ trying to make complex things feel simple
 <br/>
 
 ### contact
-[linkedin](https://linkedin.com/in/Zeynep_Sena_Gülek) · [instagram](https://instagram.com/pweexinari)
+[linkedin](https://linkedin.com/in/[Zeynep_Sena_Gülek](https://www.linkedin.com/in/zeynep-sena-g%C3%BClek-080688325/)) · [instagram](https://instagram.com/pweexinari)
 
