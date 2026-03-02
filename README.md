@@ -1,16 +1,18 @@
-## Hi there 👋
+### hey 👋
 
-<!--
-**pweexinari/pweexinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>
+<b><span style="color:#f38ba8">ITU</span></b> — electronics & communication engineering  
+<b><span style="color:#f38ba8">EYP Network</span></b> — safe team  
+<b><span style="color:#f38ba8">ITU AUV Team</span></b> — creative
+</sub>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+web & visual communication  
+trying to make complex things feel simple
+
+<br/>
+
+### contact
+[linkedin](https://linkedin.com/in/Zeynep_Sena_Gülek) · [instagram](https://instagram.com/pweexinari)
+
