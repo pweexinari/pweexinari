@@ -18,3 +18,6 @@ trying to make complex things feel simple
 
 [linkedin](https://www.linkedin.com/in/zeynep-sena-g%C3%BClek-080688325/) · [instagram](https://instagram.com/pweexinari)
 
+<p align="center">
+  <img src="assets/banner.png" width="100%">
+</p> 
