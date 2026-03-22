@@ -9,8 +9,8 @@ safe team
 ![ITU%20AUV%20Team](https://img.shields.io/badge/ITU%20AUV%20Team-fde2f3?style=flat-square&labelColor=fde2f3&color=a64d79)
 creative  
 
-˚₊‧ web & visual communication  
-trying to make complex things feel simple  
+
+trying to make complex things feel simple 4 myself n everyone 
 
 ---
 
