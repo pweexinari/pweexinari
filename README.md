@@ -10,7 +10,7 @@ safe team
 creative  
 
 
-trying to make complex things feel simple 4 myself n everyone 
+
 
 ---
 
